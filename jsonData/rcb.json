@@ -1,0 +1,17 @@
+[
+    {
+        "Name":"Dinesh",
+        "Nationality":"Indian",
+        "Role":"Captain/wc/batsman"
+    },
+    {
+        "Name":"Virat",
+        "Nationality":"Indian",
+        "Role":"Vice Captain/all-rounder"
+    },
+    {
+        "Name":"Gayle",
+        "Nationality":"West indies",
+        "Role":"ALL rounder"
+    }
+]

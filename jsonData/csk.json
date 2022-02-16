@@ -1,0 +1,17 @@
+[
+    {
+        "Name":"Dhoni",
+        "Nationality":"Indian",
+        "Role":"Captain/wc/batsman"
+    },
+    {
+        "Name":"Jadeja",
+        "Nationality":"Indian",
+        "Role":"Vice Captain/all-rounder"
+    },
+    {
+        "Name":"Bravo",
+        "Nationality":"West indies",
+        "Role":"ALL rounder"
+    }
+]
